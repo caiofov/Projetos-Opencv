@@ -1,6 +1,6 @@
-# Projetos OpenCV
+# Projetos OpenCV (UFC - Smart Campus)
 
-Este repositório consiste em duas atividades da fase de desafios do processo de seleção do projeto <b>"UFC Smart Campus: Sistema de Videomonitoramento Inteligente"</b>, uma parceria do Departamento de Computação e da <a href="https://prointer.ufc.br/pt/">Pró-Reitoria de Relações Internacionais e Desenvolvimento Institucional</a> (PROINTER).
+Este repositório consiste em duas atividades da fase de desafios do processo de seleção do projeto <b>"UFC Smart Campus: Sistema de Videomonitoramento Inteligente"</b>, uma parceria do <a href="https://portal.dc.ufc.br/">Departamento de Computação</a> e da <a href="https://prointer.ufc.br/pt/">Pró-Reitoria de Relações Internacionais e Desenvolvimento Institucional</a> (PROINTER) da <a href="http://www.ufc.br/">Universidade Federal do Ceará</a>(UFC).
 
 <h2>Sobre os arquivos</h2>
 <p>Cada arquivo neste repositório segue ao enunciado de um certo desafio da seleção. Informarei o de cada um logo abaixo.</p>
